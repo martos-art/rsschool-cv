@@ -1,15 +1,23 @@
-#**Martos Artsiom**
-##**Contacts**:
-**Phone:** +375298083145
-**Email:** martos.artm@gmail.com
-##**About me**:
-###I study at RS school to be a skilled front-end developer
-##**Skills:**
-*HTML, CSS
-*JavaScript
-*ReactJS
-*Git
-##**Code example:**
+# Martos Artsiom
+
+----
+#### Contacts:
+* Phone: +375298083145
+* Email: martos.artm@gmail.com
+
+----
+#### About me:
+I study at RS school to be a skilled front-end developer
+
+----
+#### Skills:
+* HTML, CSS
+* JavaScript
+* ReactJS
+* Git
+
+----
+#### Code example:
 ```javascript
 const SET_USER_DATA = 'SET_USER_DATA';
 
@@ -35,8 +43,11 @@ export const setUserData = (userId, email, login) => ({type: SET_USER_DATA, data
 
 export default authReducer;
 ```
-##**Education:**
-*Minsk State Polytechnic College
-##**Languages:**
-*Russian - native speaker
-*English - A1(working hard to improve it)
+
+----
+#### Education:
+Minsk State Polytechnic College
+
+----
+#### Languages:
+* English - A1 (working hard to improve it)
